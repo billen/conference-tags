@@ -7,4 +7,5 @@ Next steps: <br/>
 2) Create a properties that might even take positions, to allow for that freedom. <br/>
 3) Add attributes that allow for more information to be displayed and pulled from the csv files. <br/>
 4) Add a fonts folder to allow for custom fonts. (Add that to the properties file) <br/>
-
+<br>
+Very rough, needs a lot of work to generalize for other use.

@@ -56,7 +56,7 @@ class TagCreator:
 def main():
     # Currently don't support attributes
     #attributes = ['FirstName', 'LastName'. 'Profession', 'Title']
-    tagCreator = TagCreator('background-images/Sikhia Name Tag-01.jpg', 'names/nameList.csv')
+    tagCreator = TagCreator('background-images/<name of template image>.jpg', 'names/nameList.csv')
     tagCreator.createTags()
 
 

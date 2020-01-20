@@ -2,7 +2,7 @@
 Create name tags with custom backgrounds. Used usually to create name tags for conferences / events.
 
 ## How to Run
-* Copy the namesListTemplate.csv and add your own names
+* Copy the namesListTemplate.csv to namesList.csv and add your own names
 * Add an image to background-images
 * Change the Tag.py to include that image name within the main method
 * Run Tag.py

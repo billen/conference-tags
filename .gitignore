@@ -1,3 +1,6 @@
 background-images/*
 names/*
 tags/*
+
+!background-images/.gitkeep
+!names/namesListTemplate.csv
